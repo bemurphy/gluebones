@@ -1,0 +1,30 @@
+SYNOPSIS
+
+    Sinatra + Skeleton Boilerplate template for gn, the file generator
+
+DESCRIPTION
+
+    This template generates a very basic Sinatra application layout,
+    including a layout with the Skeleton CSS Boilerplate.
+
+    Note, for the sake of a simpler base, all images have been removed
+    from the boilerplate.
+
+INSTALLATION
+
+    $ gn -i https://github.com/bemurphy/gluebones
+
+USAGE
+
+    $ gn bluebones
+
+SEE ALSO
+
+    http://lucasefe.github.com/gn/
+    http://www.sinatrarb.com/
+    http://www.getskeleton.com/
+
+THANKS
+
+    Inspired by Soveran's Cuba App template:
+    https://github.com/soveran/app
