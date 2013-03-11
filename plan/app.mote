@@ -1,4 +1,7 @@
 require "sinatra"
+require "erubis"
+
+set :erb, escape_html: true
 
 get "/" do
   erb :index
